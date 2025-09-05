@@ -57,10 +57,10 @@ AtliQ Hardwares had scattered Excel files across multiple teams, making it diffi
 ## **6. Screenshots / Demos**  
 
 ### Customer Performance Report  
-![Customer Performance Report](https://github.com/ItsDebis/Excel-Sales-Analytics/blob/main/customer_performance.png)  
+![Customer Performance Report](https://github.com/ItsDebis/Excel-Sales-Analytics/blob/main/Customer%20Performance_ss2.png)  
 
 ### Market Performance vs Target Report  
-![Market Performance vs Target Report](https://github.com/ItsDebis/Excel-Sales-Analytics/blob/main/market_performance.png)  
+![Market Performance vs Target Report](https://github.com/ItsDebis/Excel-Sales-Analytics/blob/main/market%20peformance%20vs%20target_ss2.png)  
 
 *(Dashboards preview showcasing customer net sales growth and country-wise performance vs targets.)*  
 
